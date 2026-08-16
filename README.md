@@ -183,7 +183,7 @@ This stage represents a research direction rather than a completed capability.
 
 ---
 
-# Research Roadmap
+#  Rsearch Roadmap
 
 Project Aegis is planned as a **multi-project portfolio** rather than a fixed collection of unrelated labs.
 
