@@ -2,6 +2,8 @@
 
 > **Building Toward Proactive Network Defense**
 
+![Project Aegis — Building Toward Proactive Network Defense](Assets/Project-Aegis-Cover.png)
+
 Project Aegis is a developing **research and engineering portfolio** exploring how enterprise networks can evolve from secure infrastructure toward increasingly **observable, measurable, resilient, and proactive cyber defense**.
 
 The portfolio combines network engineering, security architecture, experimentation, detection engineering, telemetry, incident analysis, and defensive automation.
@@ -97,7 +99,7 @@ ACL match counters provided additional router-side evidence that representative 
 
 ### RC-001 Repository
 
-**RC-001 — Secure Hierarchical Enterprise Network**
+[**RC-001 — Secure Hierarchical Enterprise Network**](https://github.com/Emmanuel-Ampong/RC-001-Hierarchical-Enterprise-Network)
 
 The dedicated repository contains architecture documentation, implementation files, verification reports, engineering logs, troubleshooting records, and versioned Packet Tracer environments.
 
